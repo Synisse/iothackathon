@@ -1,4 +1,9 @@
 # iothackathon
 
 //TODO: Do stuff
-//Just testing commit features of vs code
+
+* Flashing OS
+* Doing awesome sensor stuff
+* notifying people 
+* ...
+* profit
